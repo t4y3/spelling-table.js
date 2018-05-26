@@ -1,0 +1,26 @@
+{
+  "name": "spellingTable.js",
+  "version": "1.0.0",
+  "description": "Spelling of katakana",
+  "main": "dist/spellingTable.js",
+  "scripts": {
+    "build": "rollup -c",
+    "watch": "rollup -c -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/t4y3/spellingTable.js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/t4y3/spellingTable.js/issues"
+  },
+  "homepage": "https://github.com/t4y3/spellingTable.js#readme",
+  "devDependencies": {
+    "rollup": "^0.59.1",
+    "rollup-plugin-buble": "^0.19.2",
+    "rollup-plugin-uglify": "^3.0.0"
+  }
+}
