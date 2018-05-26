@@ -1,4 +1,4 @@
-# spellingTable.js
+# spelling-table.js
 カタカナのスペル対応表(Object)
 
 ```js
@@ -32,11 +32,11 @@
 ## npm
 ### Install
 ```sh
-npm i spellingTable.js
+npm i spelling-table.js
 ```
 ### Usage
 ```js
-import SpellingTable from 'spellingTable.js';
+import SpellingTable from 'spelling-table.js';
 let katakana = SpellingTable.getKatakana();
 ```
 

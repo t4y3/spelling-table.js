@@ -1,5 +1,5 @@
 {
-  "name": "spellingTable.js",
+  "name": "spelling-table.js",
   "version": "1.0.0",
   "description": "Spelling of katakana",
   "main": "dist/spellingTable.js",
